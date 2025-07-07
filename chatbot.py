@@ -1,7 +1,6 @@
 import os
 import logging
 from dotenv import load_dotenv
-import os
 
 from huggingface_hub import HfFolder, InferenceClient
 
